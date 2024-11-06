@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Programmer meme!</string>
+    <string name="name">Sara Salem</string>
+    <string name="age">20 Years Old</string>
+    <string name="loopmeme">TODO</string>
+</resources>
